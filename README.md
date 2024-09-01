@@ -1,5 +1,5 @@
 https://esp.huhn.me/
-
+Lilygo S3 Display// Bootloader 0x0000 Partition 0x8000 Bin 0x10000 !!
 
 
 ![S3DisplayBTCnixi](https://github.com/user-attachments/assets/a49189f7-5b36-45e9-b4e8-4fc1df6c4398)
