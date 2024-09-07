@@ -1,3 +1,6 @@
+
+Flash with right settings unplug... plugin in search wifi networks ....KWind IoT connectct and then connect with your wifi network done.....
+
 https://esp.huhn.me/
 Lilygo S3 Display// Bootloader 0x0000 Partition 0x8000 Bin 0x10000 !!
 
