@@ -1,6 +1,6 @@
 
 Flash with the right settings unplug... plugin in search wifi networks ....KWind IoT  and connect with your wifi network done.....
-
+![IMG_4989](https://github.com/user-attachments/assets/19fdb2dc-9abd-44c3-8001-4a60c5529460)
 https://esp.huhn.me/
 Lilygo S3 Display// Bootloader 0x0000 Partition 0x8000 Bin 0x10000 !!
 
@@ -10,6 +10,7 @@ Lilygo S3 Display// Bootloader 0x0000 Partition 0x8000 Bin 0x10000 !!
 
 
 <img width="1274" alt="Screenshot 2024-09-01 at 14 16 43" src="https://github.com/user-attachments/assets/0351c927-a986-4474-b15c-32bae52f9a2d">
+
 
 
 
