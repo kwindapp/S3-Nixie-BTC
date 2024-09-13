@@ -1,4 +1,4 @@
-S3 Nixi ticker and Nixi Clock
+S3 Nixi ticker price updated every min and price change % 24h and Nixi Clock just the time:-)
 Flash with the right settings unplug... plugin in search wifi networks ....KWind IoT  and connect with your wifi network done.....
 ![IMG_4989](https://github.com/user-attachments/assets/19fdb2dc-9abd-44c3-8001-4a60c5529460)
 https://esp.huhn.me/
