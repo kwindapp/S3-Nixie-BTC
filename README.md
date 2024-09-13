@@ -1,4 +1,4 @@
-
+S3 Nixi ticker and Nixi Clock
 Flash with the right settings unplug... plugin in search wifi networks ....KWind IoT  and connect with your wifi network done.....
 ![IMG_4989](https://github.com/user-attachments/assets/19fdb2dc-9abd-44c3-8001-4a60c5529460)
 https://esp.huhn.me/
@@ -17,3 +17,4 @@ Lilygo S3 Display// Bootloader 0x0000 Partition 0x8000 Bin 0x10000 !!
 Hold the reset button when you plug in the Board 
 
 ![WhatsApp Image 2024-09-01 at 15 05 30](https://github.com/user-attachments/assets/ae516da5-18fb-4988-b5e2-6405d0cd8bd8)
+<img width="619" alt="Screenshot 2024-09-13 at 23 52 39" src="https://github.com/user-attachments/assets/cd9a1382-5818-41e3-989c-559ba7a5854e">
