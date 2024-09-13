@@ -18,3 +18,4 @@ Hold the reset button when you plug in the Board
 
 ![WhatsApp Image 2024-09-01 at 15 05 30](https://github.com/user-attachments/assets/ae516da5-18fb-4988-b5e2-6405d0cd8bd8)
 <img width="619" alt="Screenshot 2024-09-13 at 23 52 39" src="https://github.com/user-attachments/assets/cd9a1382-5818-41e3-989c-559ba7a5854e">
+![Nixi 180 Button right](https://github.com/user-attachments/assets/0f30936e-7df9-4703-b89d-819cc1e7c16e)
